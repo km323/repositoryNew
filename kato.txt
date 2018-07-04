@@ -1,2 +1,7 @@
 katokato
+<<<<<<< HEAD
 kkkkkooo
+=======
+kkkkkkss
+tyertrhdh
+>>>>>>> new
